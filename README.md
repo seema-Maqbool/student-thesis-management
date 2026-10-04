@@ -310,5 +310,6 @@ The project is deployed on Vercel: student-thesis-management.vercel.app
 
 ## Author
 
+
 **Seema**
-GitHub: [@seema-Mqaqbool](https://github.com/seema-Mqaqbool)
+GitHub: [@seema-Mqaqbool](https://github.com/seema-Maqbool)
