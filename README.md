@@ -20,7 +20,7 @@ docs/screenshots/student-dashboard.png
 docs/screenshots/student-my-thesis.png
 ...
 
-### Login
+### login
 
 ![Login page](docs/screenshots/login.png)
 
